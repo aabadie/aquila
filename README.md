@@ -31,7 +31,7 @@ Aquila is developed and tested using Xilinx KC-705 development platform. Impleme
 
 We will provide Vivado workspace for other less expensive platforms, such as the Arty A7-100, soon. However, KC-705 will be the main development platform for the Aquila SoCs.
 
-# Simualtion of Aquila (Verilator)
+# Simulation of Aquila (Verilator)
 
 Aquila provides verilator model for fast simulation and riscv-tests env for riscv-tests regression tests.
 
